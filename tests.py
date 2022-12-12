@@ -1,7 +1,7 @@
 from math import factorial
 
 def test_1():
-    assert True
+    assert False
     
 def test_2():
     assert factorial(0) == 1
